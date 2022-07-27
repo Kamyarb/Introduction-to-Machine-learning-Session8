@@ -226,11 +226,23 @@ As a result, AdaBoost typically provides more accurate predictions than Random F
 <img src="https://i.postimg.cc/Ghd7cBZY/vote.png" width="600"/>
 
 ## XGBoost
-
+ `XGBoost`  is a scalable and highly accurate implementation of gradient boosting that pushes the limits of computing power for boosted tree algorithms, being built largely for energizing machine learning model performance and computational speed.
+`Supervised machine learning` uses algorithms to train a model to find patterns in a dataset with labels and features and then uses the trained model to predict the labels on a new dataset’s features.
 
 <img src="https://i.postimg.cc/d348Q0ym/evolution.png" width="600"/>
 
+![image](https://user-images.githubusercontent.com/100142624/181243424-2c805d8e-01ae-4c30-83c1-12e060d1b65b.png)
+
+![image](https://user-images.githubusercontent.com/100142624/181243608-26ddee9e-863b-4eca-b232-b62749ba6db8.png)
 
 
 <img src="https://i.postimg.cc/nrcDWtPs/comparison.jpg" width="600"/>
 
+The list of benefits and attributes of XGBoost is extensive, and includes the following:
+
+A large and growing list of data scientists globally that are actively contributing to XGBoost open source development
+Usage on a wide range of applications, including solving problems in regression, classification, ranking, and user-defined prediction challenges
+A library that’s highly portable and currently runs on OS X, Windows, and Linux platforms
+Cloud integration that supports AWS, Azure, Yarn clusters, and other ecosystems
+Active production use in multiple organizations across various vertical market areas
+A library that was built from the ground up to be efficient, flexible, and portable
